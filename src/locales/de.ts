@@ -1,7 +1,7 @@
 import { createIntl, createIntlCache } from "react-intl";
 
 const messages = {
-    'test.locale': 'DE'
+  "test.locale": "DE",
 };
 
 const cache = createIntlCache();
