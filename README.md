@@ -11,10 +11,11 @@
 - SVG Sprites
 - i18n
 - dev-express-server
-- .env files: dev, staging, productions
+- .env files: dev, staging, production
 - Hooks: useKeyPressHook, useOutsideClickHook
-- Axios Interceptor
+- Axios interceptor to send the Authorization header with the request
 - normalize.css
+- postbuild script
 
 ## Author
 [Ramil Kharisov](https://github.com/xfo)
