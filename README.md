@@ -1,5 +1,7 @@
 # React + Parcel v2 + Typescript + SCSS + SVG Sprites + i18n = 🚀
-Real Life Boilerplate for development ReactJS apps with Parcel v2 builder
+
+- Modern Boilerplate for development ReactJS apps with Parcel v2 builder.
+- Quick-start ReactJS development with pre-built i18n.
 
 ## Built in settings
 - Parcel v2
